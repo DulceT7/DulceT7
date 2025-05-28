@@ -3,17 +3,17 @@
 <p>
   <img src="./pompom.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>Soy una estudiante que esta aprendiendo la carrera de computación.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo REACT
-    <br>🔹 Programación en python con raspberry pi pico W
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    <br>🔹 Actualmente estoy aprendiendo Linux.
+    <br>🔹 Estoy aprendiendo a programar.
+    <br>🔹 Me interesa el aprender del desarrollo de mi carrera y podeer terminarla.
     </samp>
    <br>
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+      #html, #css, #git, #SQL, #Bash, #linux
      </samp>
     <br>
   </p>
