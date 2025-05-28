@@ -7,7 +7,7 @@
     <br>
     <br>🔹 Actualmente estoy aprendiendo Linux.
     <br>🔹 Estoy aprendiendo a programar.
-    <br>🔹 Me interesa el aprender del desarrollo de mi carrera y podeer terminarla.
+    <br>🔹 Me interesa aprender del desarrollo de mi carrera y poder terminarla.
     </samp>
    <br>
   <br>
